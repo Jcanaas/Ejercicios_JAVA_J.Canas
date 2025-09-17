@@ -1,0 +1,96 @@
+(node:29700) Warning: Currently the require() provided to the main script embedded into single-executable applications only supports loading built-in modules.
+To load a module from disk after the single executable application is launched, use require("module").createRequire().
+Support for bundled module loading or virtual file systems are under discussions in https://github.com/nodejs/single-executable
+(Use `gitlab-lsp --trace-warnings ...` to show where the warning was created)
+(node:29700) ExperimentalWarning: Single executable application is an experimental feature and might change at any time
+(node:29700) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-09-17T17:51:04:322 [info]: fetch: Detected no proxy settings
+2025-09-17T17:51:04:327 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-09-17T17:51:04:389 [info]: GitLab Language Server is starting (v8.9.2)
+2025-09-17T17:51:04:390 [info]: Applying 3 endpoints to connection.
+2025-09-17T17:51:04:439 [info]: [HttpServer]: server listening on http://127.0.0.1:57024/
+2025-09-17T17:51:04:440 [info]: GitLab Language Server has started
+2025-09-17T17:51:04:451 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-17T17:51:04:451 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-17T17:51:04:452 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-17T17:51:04:452 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-17T17:51:04:452 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-17T17:51:04:484 [info]: [VirtualFileSystemService] Registering watchers
+2025-09-17T17:51:04:692 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-17T17:51:09:528 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/.gitignore
+2025-09-17T17:51:09:529 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/.gitignore
+2025-09-17T17:51:09:530 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/module-info.class
+2025-09-17T17:51:09:531 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/module-info.class
+2025-09-17T17:51:14:524 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/module-info.class
+2025-09-17T17:51:14:525 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/module-info.class
+2025-09-17T17:51:14:525 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/eclipse-workspace/Test/bin/Ejercicios/HolaMundo.class
+2025-09-17T17:51:14:525 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/eclipse-workspace/Test/bin/Ejercicios/HolaUser.class
+2025-09-17T17:51:14:526 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/eclipse-workspace/Test/bin/Testing
+2025-09-17T17:51:14:526 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/eclipse-workspace/Test/bin/module-info.class
+2025-09-17T17:51:14:527 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/eclipse-workspace/Test/src/Ejercicios/HolaUser.java
+2025-09-17T17:52:04:542 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios
+2025-09-17T17:52:04:544 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios
+2025-09-17T17:52:04:545 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios
+2025-09-17T17:52:04:545 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios
+2025-09-17T17:52:44:551 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:44:552 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:44:553 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:52:44:553 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:52:44:554 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaMundo.class
+2025-09-17T17:52:44:555 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaMundo.class
+2025-09-17T17:52:44:556 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaUser.class
+2025-09-17T17:52:44:556 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaUser.class
+2025-09-17T17:52:44:557 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:44:558 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:44:558 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:52:44:560 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:52:54:551 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:54:552 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:54:552 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:52:54:552 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:53:04:555 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:53:04:556 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:53:04:557 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:53:04:558 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:53:14:557 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:53:14:558 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:53:24:560 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:53:24:560 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaMundo.java
+2025-09-17T17:53:24:561 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaMundo.class
+2025-09-17T17:53:24:561 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaMundo.class
+2025-09-17T17:53:59:569 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloWorld.java
+2025-09-17T17:53:59:570 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloWorld.java
+2025-09-17T17:53:59:570 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloWorld.java
+2025-09-17T17:53:59:571 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloWorld.java
+2025-09-17T17:54:09:573 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:54:09:574 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:54:24:577 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:54:24:579 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HolaUser.java
+2025-09-17T17:54:24:580 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaUser.class
+2025-09-17T17:54:24:580 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/bin/ejercicios/HolaUser.class
+2025-09-17T17:54:54:583 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:54:54:583 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:09:608 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:09:609 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:39:616 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:39:617 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:39:618 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:39:618 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:39:619 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:39:620 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:44:617 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:55:44:618 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:619 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:620 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:620 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:620 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:621 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:621 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:621 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:623 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:623 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:04:623 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:09:623 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:09:624 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:09:626 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
+2025-09-17T17:56:09:627 [warning]: [RepositoryService] No matching repository found for file file:///c%3A/Users/jordi/Documents/GitHub/Ejercicios_JAVA_J.Canas/JOEL/src/ejercicios/HelloUser.java
