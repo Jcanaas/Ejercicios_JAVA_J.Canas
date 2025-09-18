@@ -1,4 +1,4 @@
-package ejercicios;
+package ProblemesdeScanner;
 
 import java.util.Scanner;
 public class paambtmaquet{
